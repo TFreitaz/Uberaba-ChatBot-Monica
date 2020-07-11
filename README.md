@@ -26,7 +26,7 @@
 
 ## Modo de uso
 
-<p>>Todas as features são acessadas pelo arquivo do chatbot, isto é, monica.py. O chatbot recebe uma requisição e retorna sua resposta. A comunicação entre o chatbot e o usuário deve ser feita através de uma interface. Neste caso, esta comunicação é realizada através de um bot no Telegram, chamado @monica_urabot.</p>
+<p>Todas as features são acessadas pelo arquivo do chatbot, isto é, monica.py. O chatbot recebe uma requisição e retorna sua resposta. A comunicação entre o chatbot e o usuário deve ser feita através de uma interface. Neste caso, esta comunicação é realizada através de um bot no Telegram, chamado @monica_urabot.</p>
 <p>Para permitir a atividade do bot no Telegram, é necessário que o script server.py esteja em execução. Desta forma, o bot permanece capaz de receber e responder requisições. Por outro lado, se o interesse é de apenas enviar uma mensagem ou notificação para os usuários cadastrados no banco de dados através do Telegram, utiliza-se o script alert.py, alterando os campos de mensagens conforme o desejado.</p>
 
 ## Detalhamento de Features
