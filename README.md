@@ -61,4 +61,4 @@
 
 ## Requisitos
 
-<p>O requirements.txt ainda será disponibilizado. Além das bibliotecas, também é necessário um token de chatbot do Telegram, bem como credentials.json e token.picle do Google Calendar API. O passo-a-passo para obtenção e aplicação correta destes itens será disponibilizado em breve.</p>
+<p>O requirements.txt ainda será disponibilizado. Além das bibliotecas, também é necessário um token de chatbot do Telegram, bem como credentials.json e token.picle do Google Calendar API, junto a um token da API HGBrasil. O passo-a-passo para obtenção e aplicação correta destes itens será disponibilizado em breve.</p>
